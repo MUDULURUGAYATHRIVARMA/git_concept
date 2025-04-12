@@ -1,1 +1,2 @@
 it is a item details file!!!!!
+user products and item data data should be entered here !!!!!
